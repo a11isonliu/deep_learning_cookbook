@@ -95,7 +95,7 @@ psycopg2-binary==2.8.3
 ptyprocess==0.6.0         # via pexpect, terminado
 pycparser==2.19           # via cffi
 pygments==2.4.2           # via ipython, jupyter-console, nbconvert, qtconsole
-pyparsing==2.4.1          # via matplotlib
+pyparsing==2.4.1.1          # via matplotlib
 pyproj==2.2.1             # via geopandas
 pyrsistent==0.15.3        # via jsonschema
 python-dateutil==2.8.0    # via botocore, jupyter-client, matplotlib, pandas
